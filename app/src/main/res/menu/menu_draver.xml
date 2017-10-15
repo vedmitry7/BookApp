@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Главы"></item>
+
+    <item android:title="Главы">
+        <group android:checkableBehavior="single">
+            <item
+                android:id="@+id/nav_share"
+                android:title="Введение в самопознание" />
+            <item
+                android:title="Не верь никому и ничему" />
+            <item
+                android:title="От концепций к Реальности" />
+            <item
+                android:title="Схема Бытия. Всё есть Сознание" />
+            <item
+                android:title="Открытая Истина. Осознание Бытия" />
+            <item
+                android:title="Ложное эго и покров иллюзий" />
+            <item
+                android:title="Душа, отождествления, вовлеченность и контроль" />
+            <item
+                android:title="Цель и смысл жизни. Свобода выбора у персонажа" />
+            <item
+                android:title="Духовное пробуждение и просветление" />
+            <item
+                android:title="Поиск источника" />
+            <item
+                android:title="Незнание. Выход за пределы ума" />
+            <item
+                android:title="Нужна ли религия и духовная практика" />
+            <item
+                android:title="Принять нельзя бороться" />
+        </group>
+    </item>
+
+</menu>
